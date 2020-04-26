@@ -17,3 +17,4 @@ Database and Python management systems for sorting and managing best photos of a
 
 ### On the Python side
 - maintain list of directories to include and exlude
+http://www.acgeospatial.co.uk/gui-in-python-part-2/
